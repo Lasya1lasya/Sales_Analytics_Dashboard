@@ -7,10 +7,10 @@ The Objective is to address the following key business questions:
 ## Dataset used:
  - <a href="https://github.com/Lasya1lasya/Sales_Analytics_Dashboard/blob/main/Sales%20Raw%20Data.xlsx">Dataset</a>
 ## Data cleaning:
- - Standardizing Formats: Ensure Uniform date,ime and numeric formats for consistency.
- - Validating Data: Apply checks for errors,such as valid emails and proper spelling.
+ - Standardizing Formats : Ensure Uniform date,ime and numeric formats for consistency.
+ - Validating Data : Apply checks for errors,such as valid emails and proper spelling.
  - Removing Duplicates : Eliminate duplicate entries to maintain data intigrity.
- - Handling Missing Values: Fill gaps using imputation,interpolation or appropriate removal.
+ - Handling Missing Values : Fill gaps using imputation,interpolation or appropriate removal.
 ## Transforming Data:
  - Creating Calculated Columns : Add new columns derived from formulas and logical operations.
  - Applying VLOOKUP : Link related data across tables to enrich the dataset with relevant information.
@@ -18,7 +18,11 @@ The Objective is to address the following key business questions:
  - Merging Tables : Combine dasets using keys to create a unified view of the data.
 ## Data Analysis:
  - ### Descriptive Statistics:
-        -Perform
+        - Perform a comprehensive Statisical summary to uncover key paterns and trends in the dataset.
+        - Identify outliers and distributional properties to ensure data consistency and reilability before further analysis.
+ - ### Hypothesis Testing using t-Test :
+        - Conducts a two sample t-test to evaluate he staistical significance of differences between two groups.
+   
    
    
 
