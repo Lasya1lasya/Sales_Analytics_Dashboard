@@ -23,6 +23,5 @@ The Objective is to address the following key business questions:
  - ### Hypothesis Testing using t-Test :
     Conducts a two sample t-test to evaluate the staistical significance of differences between two groups.
 ## Sales Automation Form
-The Sales Automation Form is  designed to simplify and automate the process of entering sales data entry. Entering in the sales form will enter into the sales sheet
- 
+The Sales Automation Form is a macro-enabled data entry tool designed to streamline and automate the process of recording sales transactions. Built using VBA macros, this form enhances efficiency by automating data submission, validation, and organization within an Excel-based sales system.
 
