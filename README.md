@@ -10,7 +10,15 @@ The Objective is to address the following key business questions:
  - Standardizing Formats: Ensure Uniform date,ime and numeric formats for consistency.
  - Validating Data: Apply checks for errors,such as valid emails and proper spelling.
  - Removing Duplicates : Eliminate duplicate entries to maintain data intigrity.
- - Handling Missing Values:Fill gaps using imputation,interpolation or appropriate removal.
+ - Handling Missing Values: Fill gaps using imputation,interpolation or appropriate removal.
+## Transforming Data:
+ - Creating Calculated Columns : Add new columns derived from formulas and logical operations.
+ - Applying VLOOKUP : Link related data across tables to enrich the dataset with relevant information.
+ - Filtering and Sorting : Organize data to focus on relevant subses and insights.
+ - Merging Tables : Combine dasets using keys to create a unified view of the data.
+## Data Analysis:
+ - ### Descriptive Statistics:
+        -Perform
    
    
 
