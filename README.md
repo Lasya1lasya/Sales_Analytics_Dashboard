@@ -21,8 +21,8 @@ The Objective is to address the following key business questions:
    - Perform a comprehensive Statisical summary to uncover key paterns and trends in the dataset.
    - Identify outliers and distributional properties to ensure data consistency and reilability before further analysis.
  - ### Hypothesis Testing using t-Test :
-    Conducts a two sample t-test to evaluate he staistical significance of differences between two groups.
-   
-   
-   
+    Conducts a two sample t-test to evaluate the staistical significance of differences between two groups.
+## Sales Automation Form
+The Sales Automation Form is  designed to simplify and automate the process of entering sales data entry. Entering in the sales form will enter into the sales sheet
+ 
 
