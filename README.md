@@ -18,10 +18,10 @@ The Objective is to address the following key business questions:
  - Merging Tables : Combine dasets using keys to create a unified view of the data.
 ## Data Analysis:
  - ### Descriptive Statistics:
-        - Perform a comprehensive Statisical summary to uncover key paterns and trends in the dataset.
-        - Identify outliers and distributional properties to ensure data consistency and reilability before further analysis.
+   - Perform a comprehensive Statisical summary to uncover key paterns and trends in the dataset.
+   - Identify outliers and distributional properties to ensure data consistency and reilability before further analysis.
  - ### Hypothesis Testing using t-Test :
-        - Conducts a two sample t-test to evaluate he staistical significance of differences between two groups.
+    Conducts a two sample t-test to evaluate he staistical significance of differences between two groups.
    
    
    
