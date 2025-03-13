@@ -22,8 +22,3 @@ The Objective is to address the following key business questions:
    - Identify outliers and distributional properties to ensure data consistency and reilability before further analysis.
  - ### Hypothesis Testing using t-Test :
     Conducts a two sample t-test to evaluate the staistical significance of differences between two groups.
-## Sales Automation Form
-The Sales Automation Form is a macro-enabled data entry tool designed to streamline and automate the process of recording sales transactions. Built using VBA macros, this form enhances efficiency by automating data submission, validation, and organization within an Excel-based sales system.
-## Dashboard link :
-since this dashboard contains linked data and automation, you can download the full working version from:  
- - <a href="https://1drv.ms/x/c/607374da3062585c/EdTj9YWyPUJBtUaT3hPYGGEBcLfnRzAG6ju2q_PEoBRJBg?e=KalmHb">Dashboard link</a>
